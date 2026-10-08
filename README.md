@@ -23,7 +23,6 @@ Computer Science student focused on building web applications, interface systems
 
 <p align="left">
 
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=js" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=ts" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=html" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=css" width="34"/></code></a>
@@ -41,9 +40,8 @@ Computer Science student focused on building web applications, interface systems
 
 <p align="left">
 
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=ts" width="32"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=cpp" width="32"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=py" width="32"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=js" width="32"/></code></a>
 
 </p>
 
