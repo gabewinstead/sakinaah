@@ -1,6 +1,6 @@
 # Hi there
 
-> Computer Science student building web systems, UI-driven interfaces, and software projects.
+> First Year Computer Science student building web systems, UI-driven interfaces, and software projects.
 > Focused on shipping functional work, improving architecture, and refining implementation quality.
 
 ---
@@ -14,19 +14,17 @@
 
 <td width="70%" valign="top">
 
-## ABOUT
-
-Computer Science student focused on building web applications, interface systems, and backend logic. Work emphasizes structure, usability, and iterative improvement. Projects are treated as systems: design, implement, evaluate, refactor, extend.
-
 
 ## TECH STACK
 
 <p align="left">
 
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=java" width="32"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=kotlin" width="32"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=py" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=ts" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=html" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=css" width="34"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=py" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=bots" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=git" width="34"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=github" width="34"/></code></a>
@@ -40,7 +38,8 @@ Computer Science student focused on building web applications, interface systems
 
 <p align="left">
 
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=cpp" width="32"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=java" width="32"/></code></a>
+<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=kotlin" width="32"/></code></a>
 <a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=py" width="32"/></code></a>
 
 </p>
