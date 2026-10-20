@@ -19,15 +19,15 @@
 
 <p align="left">
 
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=java" width="32"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=kotlin" width="32"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=py" width="34"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=ts" width="34"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=html" width="34"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=css" width="34"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=bots" width="34"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=git" width="34"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=github" width="34"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=java" width="32"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=kotlin" width="32"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=py" width="34"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=ts" width="34"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=html" width="34"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=css" width="34"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=bots" width="34"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=git" width="34"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=github" width="34"/></code></a>
 
 
 </p>
@@ -38,9 +38,9 @@
 
 <p align="left">
 
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=java" width="32"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=kotlin" width="32"/></code></a>
-<a href="https://sakinaah.dev"><code><img src="https://skillicons.dev/icons?i=py" width="32"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=java" width="32"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=kotlin" width="32"/></code></a>
+<a href="https://gabrielwisntead.com"><code><img src="https://skillicons.dev/icons?i=py" width="32"/></code></a>
 
 </p>
 
@@ -50,7 +50,7 @@
 
 ## STATS
 
-<img src="https://streak-stats.demolab.com?user=sakinaah&theme=iceberg" />
+<img src="https://streak-stats.demolab.com?user=gabewinstead&theme=iceberg" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sakinaah&langs_count=4&theme=tokyonight" />
 
 </tr>
